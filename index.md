@@ -1,5 +1,5 @@
 ---
 title: Welcome to my world of software!
 ---
-#my software story   
+# my software story   
 selam 
